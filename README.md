@@ -11,6 +11,5 @@ Features:
 -> add photos on your status
 -> send images
 -> delete for you and everyone messages
--> group messages
 
 
