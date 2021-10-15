@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "155351560036",
+    "firebase_url": "https://chatter-711c5-default-rtdb.firebaseio.com",
+    "project_id": "chatter-711c5",
+    "storage_bucket": "chatter-711c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155351560036:android:854f64487501063ab41471",
+        "android_client_info": {
+          "package_name": "com.sudarshan.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155351560036-8dsq532crvr8temjfsm1au62aohb46l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1GcjSVd7-WiYUgNXil4l5QY3PigiKwwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155351560036-8dsq532crvr8temjfsm1au62aohb46l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155351560036:android:2f1bf99da8475b09b41471",
+        "android_client_info": {
+          "package_name": "com.sudarshan.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155351560036-8dsq532crvr8temjfsm1au62aohb46l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1GcjSVd7-WiYUgNXil4l5QY3PigiKwwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155351560036-8dsq532crvr8temjfsm1au62aohb46l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
