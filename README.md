@@ -1,15 +1,18 @@
 # Chatter_app
-An online chatting app with friends
+## A realtime chatting application using firebase
 
-Create account : enter your phone number,
-                 add optional profile image,
-                 enter name
+## How to use : 
+### step1 : Click on Create account 
+### step2 : enter your phone number
+### step3 :add optional profile image,
+### step4 : enter name
+### step5 : click on create account
 
-Features:
-send and receive messages in realtime
-, can react on a message like heart, angry, haha etc
-, add photos on your status
--> send images
-, delete for you and everyone messages
+## Features:
+### Realtime chat
+### Send Images, files
+### Post status
+### React on messages by pressing a message
 
+## App screenshots : 
 
