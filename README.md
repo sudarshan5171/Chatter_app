@@ -1,6 +1,8 @@
 # Chatter_app
 ## A realtime chatting application using firebase
 
+## Apk file : https://github.com/sudarshan5171/Chatter_app/raw/master/app/release/app-release.apk
+
 ## How to use : 
 ### step1 : Click on Create account 
 ### step2 : enter your phone number
